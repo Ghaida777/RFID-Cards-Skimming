@@ -15,5 +15,16 @@ RFID (Radio-Frequency Identification) technology uses radio-frequency magnetic f
 
 -----------------------------------------------------
 
-## How The project
+## How This Project Is Done
+
+The project has been done by using the RFID technique to read and capture the information that is stored on the cards. we used the Proxmark3 and the Magic Cards that were used to paste the information on it. The Proxmark3 was able to read the identification number and the information on a hotel card and then by using the reader software we were able to see this information and copy it onto another card. 
+
+----------------------------------------------------
+
+## What I learned 
+
+The project provided me with a better understanding of RFID technology and its applications in industries such as hotels and security systems. I learned about how the Proxmark3 device works and how it is used to capture information stored on an RFID card.  Also, I gained an appreciation for the security vulnerabilities of RFID systems and the importance of protecting sensitive information stored on RFID cards. The project truly helped me develop technical skills in using the Proxmark3 device and software, as well as in analyzing and interpreting data captured from an RFID card. My teammates and I ended up reading through vast documentation to learn more about the RFID technique and Proxmark3 device we marched forwards with full attention and effort until we made it through.
+
+----------------------------------------------------
+## Demo Display
 

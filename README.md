@@ -27,3 +27,4 @@ The project provided me with a better understanding of RFID technology and its a
 
 ----------------------------------------------------
 
+Please hit me up at <a href="https://www.linkedin.com/in/ghaidalamri"> Linkedin</a> if you have any questions or want more details.
